@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trojan client GUI", "Trojan client GUI\Trojan client GUI.csproj", "{5F340B53-F44F-43C7-BBEA-0DD85BD50613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F340B53-F44F-43C7-BBEA-0DD85BD50613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F340B53-F44F-43C7-BBEA-0DD85BD50613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F340B53-F44F-43C7-BBEA-0DD85BD50613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F340B53-F44F-43C7-BBEA-0DD85BD50613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

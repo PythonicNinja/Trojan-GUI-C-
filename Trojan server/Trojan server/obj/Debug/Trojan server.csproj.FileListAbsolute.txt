@@ -1,0 +1,15 @@
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan server\bin\Debug\Trojan server.exe
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan server\bin\Debug\Trojan server.pdb
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan server\obj\Debug\Trojan server.exe
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan server\obj\Debug\Trojan server.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan server\Trojan server\obj\Debug\Trojan server.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan server\Trojan server\obj\Debug\Trojan server.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan server\Trojan server\bin\Debug\Trojan server.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan server\Trojan server\bin\Debug\Trojan server.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan server\Trojan server\obj\Debug\ResolveAssemblyReference.cache
+E:\!programowanie\!TROJAN\Trojan server\Trojan server\obj\Debug\Trojan server.exe
+E:\!programowanie\!TROJAN\Trojan server\Trojan server\obj\Debug\Trojan server.pdb
+E:\!programowanie\!TROJAN\Trojan server\Trojan server\obj\Debug\ResolveAssemblyReference.cache
+E:\!programowanie\!TROJAN\Trojan server\Trojan server\bin\Debug\Trojan server.exe
+E:\!programowanie\!TROJAN\Trojan server\Trojan server\bin\Debug\Trojan server.pdb

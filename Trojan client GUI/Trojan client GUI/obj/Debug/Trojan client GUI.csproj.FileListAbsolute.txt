@@ -1,0 +1,27 @@
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\bin\Debug\Trojan client GUI.exe
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\bin\Debug\Trojan client GUI.pdb
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\obj\Debug\Trojan_client_GUI.Properties.Resources.resources
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\obj\Debug\Trojan client GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\obj\Debug\Trojan client GUI.exe
+C:\Documents and Settings\wojtek\Local Settings\Application Data\Temporary Projects\Trojan client GUI\obj\Debug\Trojan client GUI.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Form1.resources
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Properties.Resources.resources
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\bin\Debug\Trojan client GUI.exe
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\bin\Debug\Trojan client GUI.pdb
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.AboutBox1.resources
+C:\Documents and Settings\wojtek\My Documents\Visual Studio 2008\Projects\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Form2.resources
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.exe
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.pdb
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\bin\Debug\Trojan client GUI.exe
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\bin\Debug\Trojan client GUI.pdb
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\ResolveAssemblyReference.cache
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.AboutBox1.resources
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Form1.resources
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Form2.resources
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan_client_GUI.Properties.Resources.resources
+E:\!programowanie\!TROJAN\Trojan client GUI\Trojan client GUI\obj\Debug\Trojan client GUI.csproj.GenerateResource.Cache
